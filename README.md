@@ -1,2 +1,1 @@
-# 01-hello-world-shlosman
-#02-gc-percent-shlosman
+# 10-final-project-shlosman
